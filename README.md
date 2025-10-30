@@ -1,1 +1,1 @@
-# ejemplo_tipo_parcial_2corte
+# 2_parcial_programacion
